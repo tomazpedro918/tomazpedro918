@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou estudando python.
 - 📫 Me contate no email: pedrotomaz918@gmail.com
 - 😄 Pronomes: ele/dele.
-- 
 
 ![Pedro Tomaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomazpedro918&show_icons=true&theme=dark)
 
